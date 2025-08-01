@@ -35,7 +35,7 @@ custo5 = investimento5["arrendamento"] + investimento5["maodeobra"] + investimen
 lucroliquido5 = lucrobruto5 - custo5
 
 
-menu = f"Bem-vindo ao sistema de produção agrícola! Agropop\n" \
+menu = f"Bem-vindo ao sistema de produção Agropop!\n" \
          f"1. {cult1}\n" \
          f"2. {cult2}\n" \
          f"3. {cult3}\n" \
